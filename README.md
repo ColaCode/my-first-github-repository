@@ -1,3 +1,4 @@
 # my-first-github-repository
 
-ffd
+
+Readme.md file ws just edited manually. One more edit at GitHub.
