@@ -1,4 +1,4 @@
 # my-first-github-repository
 
 
-Readme.md file was edited manually. This file was modifed locally
+This line was modifed manually during conflict resolution
