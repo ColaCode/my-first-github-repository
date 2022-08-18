@@ -3,3 +3,5 @@ this line was replaced in feature-2 branch
 This file was modifed locally
 
 this line wad added in feature-2 branch
+
+another modofication in the feature-2 branch
